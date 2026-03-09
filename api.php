@@ -57,7 +57,7 @@ try {
 
 
 
-//echo json_encode($respuesta, JSON_PRETTY_PRINT);
+echo json_encode($respuesta, JSON_PRETTY_PRINT);
 
 
 
