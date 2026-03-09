@@ -462,10 +462,10 @@ function buscarPlatos($termino = '', $precioMin = 0, $precioMax = 999999, $categ
 }
 
 
-
+/*
 $platos = obtenerTodosLosPlatos();
 echo json_encode($platos, JSON_PRETTY_PRINT);
-
+*/
 
 
 // =====================================================
