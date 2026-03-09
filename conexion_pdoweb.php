@@ -6,7 +6,7 @@
  */
 
 
- 
+ /*
 $host = "l2vr-m.h.filess.io";
 $database = "GUSTO_requiredid";
 $port = "3306";
@@ -26,7 +26,7 @@ $conn = null;
         PDO::ATTR_TIMEOUT => 30,
         PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8mb4 COLLATE utf8mb4_unicode_ci"
     ];
-
+*/
 
 
 
