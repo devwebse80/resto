@@ -17,7 +17,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
 header('Content-Type: application/json; charset=utf-8');
 
 // Incluir conexión PDO
-require_once 'conexion_pdo.php';
+require_once 'conexion_pdoweb.php';
 
 // Obtener acción del cliente
 $accion = isset($_GET['accion']) ? $_GET['accion'] : 'todos';
